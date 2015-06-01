@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: indigo;
+}
+
+body {
+    font-family: Times New Roman;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+body {
+    background-color: #d0e4fe;
+}
